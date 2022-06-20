@@ -23,19 +23,19 @@ If it's named index.js you can to <code>node .</code>
 To install NPM you need [node.js](https://nodejs.org).
 > **Optional:** Install Additional Tools.  
 
-To open VSCode Terminal do <code>Ctrl + `</code>.
-**Make sure that VSCode is in the *Bot Directory* you made earlier.**
-Once installed type <code>npm install</code>.
+To open VSCode Terminal do <code>Ctrl + `</code>.  
+**Make sure that VSCode is in the *Bot Directory* you made earlier.**  
+Once installed type <code>npm install</code>.  
 > **Recommended:** Install the update.
 
-Afterwards, type <code>npm init -y</code>.
-# 2. Installing <code>discord.js</code>
-After installing your *npm packages* type: <code>npm install discord.js</code>.
-Then type: <code>npm install -g npm@8.12.2</code>.
-If you want building tools you will need *discord.js builders*.
-<code>npm install @discordjs/builders @discordjs/rest discord-api-types</code>
-# 3. Required Files
-### If you want the pre-made files you can click [here](https://github.com/KushinaAtori/Bot/tree/main/Pre-Built)
+Afterwards, type <code>npm init -y</code>.  
+# 2. Installing <code>discord.js</code>  
+After installing your *npm packages* type: <code>npm install discord.js</code>.  
+Then type: <code>npm install -g npm@8.12.2</code>.  
+If you want building tools you will need *discord.js builders*.  
+<code>npm install @discordjs/builders @discordjs/rest discord-api-types</code>  
+# 3. Required Files  
+### If you want the pre-made files you can click [here](https://github.com/KushinaAtori/Bot/tree/main/Pre-Built)  
 
-# 4. Extras
-https://discordjs.guide/#before-you-begin
+# 4. Extras  
+https://discordjs.guide/#before-you-begin  
