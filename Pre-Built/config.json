@@ -1,5 +1,5 @@
 {
-    "clientId": "", // Application ID
-    "guildId": "", // Server/Guild ID
-    "token": "" // Bot Token ("Regenerate to See")
+    "clientId": "", 
+    "guildId": "", 
+    "token": "" 
 }
