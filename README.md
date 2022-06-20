@@ -16,7 +16,7 @@ In the config.json file you need:
 
 **DO NOT GIVE THESE TO ANYONE**
 
-To actually run the bot you type <code>node index.js</code>.
+To actually run the bot you type <code>node index.js</code>.  
 If it's named index.js you can to <code>node .</code>
 
 # 1. Installing NPM
