@@ -14,6 +14,8 @@ In the config.json file you need:
 - GuildID (guild server ID)
 - Token (regenerate token for token)
 **DO NOT GIVE THESE TO ANYONE**
+To actually run the bot you type <code>node index.js</code>.
+If it's named index.js you can to <code>node .</code>
 
 # 1. Installing NPM
 To install NPM you need [node.js](https://nodejs.org).
