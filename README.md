@@ -8,6 +8,13 @@ To get started you need a IDE
 
 Make a project file to store your bots file system.
 
+# 0. Important
+In the config.json file you need:
+- ClientID (application ID)
+- GuildID (guild server ID)
+- Token (regenerate token for token)
+**DO NOT GIVE THESE TO ANYONE**
+
 # 1. Installing NPM
 To install NPM you need [node.js](https://nodejs.org).
 > **Optional:** Install Additional Tools.  
@@ -28,5 +35,3 @@ If you want building tools you will need *discord.js builders*.
 
 # 4. Extras
 https://discordjs.guide/#before-you-begin
-
-
