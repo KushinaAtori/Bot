@@ -33,10 +33,8 @@ VSCode Terminalを開くには、<code>Ctrl+`</code> と入力します。
 *npmパッケージ* をインストールした後、次のように入力します：<code> npm install discord.js</code>。  
 
 次に、<code> npm install -g npm@8.12.2</code>と入力します。  
-
 ビルドツールが必要な場合は、*discord.jsビルダー*が必要になります。  
-
-<code> npm install @discordjs/builders @discordjs/rest discord-api-types </ code> 
+<code> npm install @discordjs/builders @discordjs/rest discord-api-types </code> 
 
 # 3. 必要なファイル  
 ### 作成済みのファイルが必要な場合は、[玆](https://github.com/KushinaAtori/Bot/tree/main/Pre-Built) をクリックしてください。  
