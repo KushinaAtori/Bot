@@ -1,41 +1,41 @@
 
 ## Kushina Bot
-Kushina Bot is my own bot that I'm currently working on.
+Kushina Botは、私が現在取り組んでいる私自身のボットです。
 
-## Get Started
-To get started you need a IDE 
+## はじめに
+開始するには、IDEが必要です 
 > [VSCode](https://code.visualstudio.com).
 
-Make a project file to store your bots file system.
+ボットファイルシステムを保存するプロジェクトファイルを作成します。
 
-# 0. Important
-In the config.json file you need:
-- ClientID (application ID)
-- GuildID (guild server ID)
-- Token (regenerate token for token)
+# 0. 重要
+config.jsonファイルで必要なもの：
+- ClientID（アプリケーションID）
+- GuildID（ギルドサーバーID）
+- Token（Tokenのを再生成）
 
-**DO NOT GIVE THESE TO ANYONE**
+**これらを誰にも与えないでください**
 
-To actually run the bot you type <code>node index.js</code>.  
-If it's named index.js you can to <code>node .</code>
+ボットを実際に実行するには、<code>nodeindex.js</code>と入力します。  
+index.jsという名前の場合は、<code>node .</code>を実行できます。
 
-# 1. Installing NPM
-To install NPM you need [node.js](https://nodejs.org).
+# 1. NPMのインストール
+NPMをインストールするには、[node.js](https://nodejs.org).
 > **Optional:** Install Additional Tools.  
 
-To open VSCode Terminal do <code>Ctrl + `</code>.  
-**Make sure that VSCode is in the *Bot Directory* you made earlier.**  
-Once installed type <code>npm install</code>.  
+VSCode Terminalを開くには、<code>Ctrl+`</code> と入力します。  
+**VSCodeが以前に作成した *ボットディレクトリ* にあることを確認してください。**  
+インストールしたら、<code>npm install</code> と入力します。  
 > **Recommended:** Install the update.
 
-Afterwards, type <code>npm init -y</code>.  
-# 2. Installing <code>discord.js</code>  
-After installing your *npm packages* type: <code>npm install discord.js</code>.  
-Then type: <code>npm install -g npm@8.12.2</code>.  
-If you want building tools you will need *discord.js builders*.  
-<code>npm install @discordjs/builders @discordjs/rest discord-api-types</code>  
-# 3. Required Files  
-### If you want the pre-made files you can click [here](https://github.com/KushinaAtori/Bot/tree/main/Pre-Built)  
+その後、<code>npm init -y</code> と入力します。  
+# 2. <code>discord.js</code> のインストール  
+* npmパッケージ*をインストールした後、次のように入力します：<code> npm install discord.js</code>。  
+次に、<code> npm install -g npm@8.12.2</code>と入力します。  
+ビルドツールが必要な場合は、*discord.jsビルダー*が必要になります。  
+<code> npm install @discordjs/builders @discordjs/rest discord-api-types </ code> 
+# 3. 必要なファイル  
+### 作成済みのファイルが必要な場合は、[玆](https://github.com/KushinaAtori/Bot/tree/main/Pre-Built) をクリックしてください。  
 
-# 4. Extras  
+# 4. ふくし  
 https://discordjs.guide/#before-you-begin  
